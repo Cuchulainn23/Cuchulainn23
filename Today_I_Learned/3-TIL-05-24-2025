@@ -1,0 +1,11 @@
+Today I learned:
+
+A tuple in python is immutable.  Also it's a faster way of retrieving data, as the data type uses smaller blocks of memory.
+
+Lists are similar, but mutable.  They're better for data which changes.
+
+Working on writing something simple, before moving on to more complex programs:
+
+name = input("What is your name?")
+
+print("Nice to meet you, " + name + "!")
